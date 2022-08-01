@@ -1,0 +1,27 @@
+.header{
+    height: 80px;
+    background-color:  #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+    
+}
+.nav a{
+    text-decoration: none;
+font-family: Lato;
+font-size: 17px;
+font-weight: 400;
+color: #ffff;
+margin-left: 40px;
+/* letter-spacing: 0.005em;
+text-align: left; */
+
+}
+.nav a:hover{
+    border-bottom: 2px solid orange;
+   color: #FF9900;
+  
+
+}

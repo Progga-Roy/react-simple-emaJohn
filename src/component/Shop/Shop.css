@@ -1,0 +1,15 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    
+
+}
+.shopping-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    Width:300px;
+    Height:508px;
+    grid-gap: 50px;
+    margin-left: 111px;
+    margin-top: 120px;
+}
